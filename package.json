@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "name": "cse340-course-repo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "trabajos curso backend cse 340",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nestoredi/cse340-course-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  "url": "https://github.com/nestoredi/cse340-course-repo/issues"
+  },
+  "homepage": "https://github.com/nestoredi/cse340-course-repo#readme"
+}
