@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "dotenv": "^17.3.1",
+    "ejs": "^5.0.1",
     "express": "^5.2.1"
   },
   "devDependencies": {
@@ -22,7 +24,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-  "url": "https://github.com/nestoredi/cse340-course-repo/issues"
+    "url": "https://github.com/nestoredi/cse340-course-repo/issues"
   },
   "homepage": "https://github.com/nestoredi/cse340-course-repo#readme"
 }
